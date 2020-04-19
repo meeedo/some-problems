@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539169742 source:e:\fci\programming-ii\projects\random_schuffle\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
